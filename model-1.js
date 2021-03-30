@@ -9,3 +9,7 @@ var floatingInteger = 3.5;
 var isTall = false;
 var isReligious = false;
 var haveBeen = true;
+
+var beaches = ['Santa Monica', 'Manhattan Beach', 'Seal Beach'];
+var dressStyles = ['long', 'mid-calf', 'short', 'bodycon'];
+var hikingDestinations = ['Muir Beach', 'Muir Woods', 'Towsley'];
