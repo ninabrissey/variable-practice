@@ -1,15 +1,15 @@
-var address = '614 Aspen St';
-var herAndHim = 'Jessica and Alex are perfect for one another.';
-var emojiFull = 'I\'m a fancy unicorn 🦄';
+var site = 'Netflix';
+var mostPopular = 'Bridgerton';
+var genre = 'Comedy';
 
-var number = 10;
-var age = 101;
-var floatingInteger = 3.5;
+var numberWatched = 200;
+var numberSkipped = 50;
+var timeWacthed = 94.754;
 
-var isTall = false;
-var isReligious = false;
-var haveBeen = true;
+var play = true;
+var stop = false;
+var fastForward = true;
 
-var beaches = ['Santa Monica', 'Manhattan Beach', 'Seal Beach'];
-var dressStyles = ['long', 'mid-calf', 'short', 'bodycon'];
+var comediesTVWatched = ['Big Bang Theory', 'New Girl', 'Community'];
+var dramaskipped = ['long', 'mid-calf', 'short', 'bodycon'];
 var hikingDestinations = ['Muir Beach', 'Muir Woods', 'Towsley'];
