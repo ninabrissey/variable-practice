@@ -15,10 +15,12 @@ var dramaskipped = ['long', 'mid-calf', 'short', 'bodycon'];
 var hikingDestinations = ['Muir Beach', 'Muir Woods', 'Towsley'];
 
 var tvShow = {
-  title = 'New Girl',
-  genre = 'Comedy'
-  type = 'series',
-  season = 2,
-  episode = 3,
-  runtime = 22.67
+  title: 'New Girl',
+  genre: 'Comedy',
+  type: 'series',
+  season : 2,
+  episode: 3,
+  runtime: 22.67
 };
+
+console.log(`You have watched the ${tvShow.type} ${tvShow.title} Season ${tvShow.season}: Episode ${tvShow.episode}. What do you want to watch next?`)
