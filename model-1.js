@@ -5,3 +5,7 @@ var emojiFull = 'I\'m a fancy unicorn 🦄';
 var number = 10;
 var age = 101;
 var floatingInteger = 3.5;
+
+var isTall = false;
+var isReligious = false;
+var haveBeen = true;
